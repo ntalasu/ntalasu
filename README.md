@@ -63,6 +63,10 @@ Let’s connect and build something amazing!
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:naina.talasu@sjsu.edu)  
 
 ---
+![Naina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nainatalasu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nainatalasu&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=nainatalasu&theme=tokyonight)
+
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and reach out to collaborate or chat tech.*
 
