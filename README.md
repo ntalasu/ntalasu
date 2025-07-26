@@ -31,19 +31,19 @@ Here are some of the tools and technologies I have worked with:
 **Impact:** Simplifies the development of GUI-based applications by providing a plug-and-play architecture with built-in support for views, controllers, file handling, and state management. <br>
 
 ### 📌 SmartBox (https://github.com/ntalasu/SmartBox)
-**Description:** Built a GUI-based Java application to simulate smart parcel management using dynamic stack and queue structures.
-**Tech Stack:** Java, Swing
-**Impact:** Models real-world logistics scenarios by managing box operations (enqueue, dequeue, push, pop) with interactive visual feedback, helping users understand data structure behavior in practical applications.
+**Description:** Built a GUI-based Java application to simulate smart parcel management using dynamic stack and queue structures. <br>
+**Tech Stack:** Java, Swing <br>
+**Impact:** Models real-world logistics scenarios by managing box operations (enqueue, dequeue, push, pop) with interactive visual feedback, helping users understand data structure behavior in practical applications. <br>
 
 ### 📌 Echo (https://github.com/ntalasu/Echo)
-**Description:** Built a multithreaded client-server system in Java with dynamic request handling, including math, proxy, cache, and security features.
-**Tech Stack:** Java, Swing
-**Impact:** Enables efficient, secure, and extensible communication between clients and servers by handling concurrent requests and integrating modular features like math services, caching, proxying, and encryption.
+**Description:** Built a multithreaded client-server system in Java with dynamic request handling, including math, proxy, cache, and security features. <br>
+**Tech Stack:** Java, Swing <br>
+**Impact:** Enables efficient, secure, and extensible communication between clients and servers by handling concurrent requests and integrating modular features like math services, caching, proxying, and encryption. <br>
 
 ### 📌 SimStation (https://github.com/ntalasu/simStationProject)
-**Description:** Took the lead in implementing multi-agent behaviors and threading in Java; developed key simulations, including Plague and Prisoner’s Dilemma using MVC design.
-**Tech Stack:** Java, Swing
-**Impact:** Uses multithreading to run multiple agents at the same time, making the simulations faster and more realistic.
+**Description:** Took the lead in implementing multi-agent behaviors and threading in Java; developed key simulations, including Plague and Prisoner’s Dilemma using MVC design. <br>
+**Tech Stack:** Java, Swing <br>
+**Impact:** Uses multithreading to run multiple agents at the same time, making the simulations faster and more realistic. <br>
 
 ---
 
