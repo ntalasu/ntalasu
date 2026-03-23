@@ -45,10 +45,11 @@ Here are some of the tools and technologies I have worked with:
 **Tech Stack:** Java, Swing <br>
 **Impact:** Uses multithreading to run multiple agents at the same time, making the simulations faster and more realistic. <br>
 
-### 📌 CariConnectlin (https://github.com/ntalasu/simStationProject)
-**Description:** Contributing to an AI-driven book recommendation system using BERT, LangChain RAG, and LLAMA LLM, focusing on model fine-tuning and UI enhancements <br>
-**Tech Stack:** Python, BERT, LangChain RAG, LLAMA LLM <br>
+### 📌 CariConnect (https://github.com/QHongboQ/CariConnect-Author-Producer-Matching-System)
+**Description:** Contributing to an AI-driven book recommendation system using BERT, LangChain RAG, and LLAMA LLM, focusing on model fine-tuning and UI enhancements. <br>
+**Tech Stack:** Python, BERT, LangChain RAG, and LLAMA LLM <br>
 **Impact:** Represents a significant advancement in book recommendation technology by transitioning from traditional, static filtering methods to a dynamic, semantic-driven approach.  <br>
+
 ---
 
 ## 🎯 Interests
